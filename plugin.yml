@@ -1,0 +1,7 @@
+name: EggCeption
+version: 1.0.0
+main: com.github.danielhobby.eggception.Main
+
+commands:
+  hatch:
+    description: Turn on or off hatching.
